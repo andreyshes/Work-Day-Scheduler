@@ -67,3 +67,7 @@ textarea {
 	display: flex;
 	justify-content: center;
 }
+
+.hour-11 {
+	background-color: none;
+}
